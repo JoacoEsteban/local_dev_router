@@ -27,3 +27,5 @@ local_dev_router-*.tar
 
 # config
 /config/dev.exs
+
+.DS_Store
